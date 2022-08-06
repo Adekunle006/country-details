@@ -1,0 +1,32 @@
+.flex {
+    display: flex;
+
+ }
+
+.card {
+    background-color: #fff;
+    color: #333;
+    border-radius: 5px;
+    box-shadow: 0 3px 10px rgba(0, 0, 0, .2);
+    padding: 20px;
+    margin: 0;
+}
+
+.container {
+    max-width: 1100px;
+    padding: 0 40px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.centre {
+    align-items: center;
+}
+
+.text-c {
+    text-align: center;
+}
+
+.my {
+    margin: 12px 0;
+}
